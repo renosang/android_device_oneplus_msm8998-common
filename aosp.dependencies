@@ -1,0 +1,17 @@
+[
+  {
+    "repository":  "soshiweekly/device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch":      "pie"
+  },
+  {
+    "repository":  "soshiweekly/kernel_oneplus_msm8998",
+    "target_path": "kernel/oneplus/msm8998",
+    "branch":      "pie"
+  },
+  {
+    "repository":  "soshiweekly/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch":      "pie"
+  }
+]
